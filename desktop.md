@@ -4,3 +4,5 @@
 + SSD : [Crucial SSD P2シリーズ 500GB M.2 NVMe](https://www.amazon.co.jp/gp/product/B086TDBW8J/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 + RAM : [CORSAIR DDR4 16GB×2](https://www.amazon.co.jp/gp/product/B0134EW44S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 + Case : [Cooler Master MasterBox MB400L](https://www.amazon.co.jp/gp/product/B08GLBRCVJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
++ CPU Fan : [Cooler Master Hyper H412R](https://www.amazon.co.jp/gp/product/B076MQBZ2L/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
++ Case Fan : [Noctua NF-A12x25 PWM](https://www.amazon.co.jp/gp/product/B07C5VG64V/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
